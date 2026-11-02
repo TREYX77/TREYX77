@@ -10,9 +10,9 @@ Mostly: **Unity / C#**, **Unreal Engine 5 / C++**, **TypeScript / React**, **Rus
 
 | | |
 |---|---|
-| [**Oto**](https://github.com/TREYX77/Oto) | Calm desktop + Android music player. Tauri 2, React, Rust. No algorithm telling you what to feel. |
-| [**Lev**](https://github.com/TREYX77/Lev) | Small trainable decision models: throw in text or JSON plus typed questions, get calibrated probabilities back. Adapted from kev. |
-| [**Portfolio-V2**](https://github.com/TREYX77/Portfolio-V2) | My portfolio. Vite, React 18, strict TS, and a live WebGL2 black hole in the background because a plain gradient felt cowardly. |
+| [**Oto**](https://github.com/TREYX77/Oto) | Calm desktop + Android music player. Tauri 2, React, Rust. (Not Finished). |
+| [**Lev**](https://github.com/TREYX77/Lev) | Small trainable decision models: throw in text or JSON plus typed questions, get calibrated probabilities back. Adapted from kev (which is probably adapted from jev. |
+| [**Portfolio-V2**](https://github.com/TREYX77/Portfolio-V2) | My portfolio. Vite, React 18, strict TS, and a live WebGL2 black hole in the background. |
 | [**QuantumVault**](https://github.com/TREYX77/QuantumVault) | 3D puzzle game in Unity, built as a 4-person team exam project with Scrum. |
 | [**PanelFlower**](https://github.com/TREYX77/PanelFlower) | Android app that stitches manhwa/manga panels into full chapters. Made just because. |
 
