@@ -2,7 +2,7 @@
 
 Fullstack + game dev from the Netherlands. I build too many things and finish a respectable fraction of them.
 
-Mostly: **Unity / C#**, **Unreal Engine 5**, **TypeScript / React**, **Rust**, **Python**, and **Kotlin** when Android forces my hand.
+Mostly: **Unity / C#**, **Unreal Engine 5 / C++**, **TypeScript / React**, **Rust**, **Python**, and **Kotlin**.
 
 ---
 
@@ -14,9 +14,9 @@ Mostly: **Unity / C#**, **Unreal Engine 5**, **TypeScript / React**, **Rust**, *
 | [**Lev**](https://github.com/TREYX77/Lev) | Small trainable decision models: throw in text or JSON plus typed questions, get calibrated probabilities back. Adapted from kev. |
 | [**Portfolio-V2**](https://github.com/TREYX77/Portfolio-V2) | My portfolio. Vite, React 18, strict TS, and a live WebGL2 black hole in the background because a plain gradient felt cowardly. |
 | [**QuantumVault**](https://github.com/TREYX77/QuantumVault) | 3D puzzle game in Unity, built as a 4-person team exam project with Scrum. |
-| [**PanelFlower**](https://github.com/TREYX77/PanelFlower) | Android app that stitches manhwa/manga panels into full chapters. Born out of spite for bad readers. |
+| [**PanelFlower**](https://github.com/TREYX77/PanelFlower) | Android app that stitches manhwa/manga panels into full chapters. Made just because. |
 
-Also lurking in private: Discord bots with two-way voice, an AI business-automation setup (WhatsApp / voice / webchat), a Blackmagic SDI output pipeline in UE5, and a pigeon racing game. Yes, pigeons.
+Also lurking in private: Discord bots with two-way voice, an AI business-automation setup (WhatsApp / voice / webchat), a Blackmagic SDI output pipeline in UE5, and a pigeon racing game. yeah pigeons.
 
 ---
 
